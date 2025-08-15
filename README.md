@@ -1,6 +1,6 @@
 <!-- Profile: Full Dark Pro — Artist Edition -->
 
-<h1 align="center">Franck — Developer & Builder</h1>
+<h1 align="center">Developer & Builder</h1>
 <p align="center">
   <strong>Local-first • Crypto-minded • Neumorphic UX • TS/React • Python • C#</strong><br/>
   <em>« Build sharp. Keep it local. Ship clean. »</em>
