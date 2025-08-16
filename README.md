@@ -46,7 +46,6 @@
   <!-- title with faux neon -->
   <g transform="translate(40, 70)">
     <text x="0" y="0" font-family="JetBrains Mono, Consolas, monospace" font-size="44" fill="#0ff" opacity="0.15" filter="url(#glow)">FRANCK</text>
-    <text x="0" y="0" font-family="JetBrains Mono, Consolas, monospace" font-size="44" fill="url(#g1)">FRANCK</text>
     <text x="0" y="42" font-family="Inter, Segoe UI, Arial" font-size="18" fill="#AAB2C0">Artist Developer — code, design & sound</text>
   </g>
 
