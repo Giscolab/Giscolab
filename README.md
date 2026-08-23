@@ -1,20 +1,20 @@
-<!-- Profile: Full Dark Pro — Artist Edition -->
 
 <h1 align="center">Developer & Builder</h1>
+
 <p align="center">
-  <strong>Local-first • Crypto-minded • Neumorphic UX • TS/React • Python • C#</strong><br/>
+  <strong>Software Engineering • Local-first Architecture • Interactive 3D</strong><br/>
   <em>« Build sharp. Keep it local. Ship clean. »</em>
 </p>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=Full-stack+TS%2FReact;Local+encryption+%26+PBKDF2;Three.js+%2F+R3F+real-time+UI;Accessible+neumorphism;Minimal+deps%2C+max+craft)](#)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=Systems+engineering+%26+simulation;Local-first+%26+Web+Crypto;Three.js+%2F+R3F+real-time+UI;Accessible+neumorphism;Minimal+deps%2C+max+craft)](#)
 
 </div>
 
-<!-- ===== HERO NEON CARD (inline SVG, no external deps) ===== -->
+<!-- ===== HERO NEON CARD (inline SVG, responsive) ===== -->
 <p align="center">
-<svg width="940" height="200" viewBox="0 0 940 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Franck — Artist Dev">
+<svg width="100%" height="200" viewBox="0 0 940 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Franck — Artist Dev">
   <defs>
     <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#00E5FF"/>
@@ -45,7 +45,7 @@
 
   <!-- title with faux neon -->
   <g transform="translate(40, 70)">
-    <text x="0" y="0" font-family="JetBrains Mono, Consolas, monospace" font-size="44" fill="#0ff" opacity="0.15" filter="url(#glow)">FRANCK</text>
+    <text x="0" y="0" font-family="JetBrains Mono, Consolas, monospace" font-size="44" fill="#0ff" opacity="0.15" filter="url(#glow)"></text>
     <text x="0" y="42" font-family="Inter, Segoe UI, Arial" font-size="18" fill="#AAB2C0">Artist Developer — code, design & sound</text>
   </g>
 
@@ -59,26 +59,46 @@
 
 ---
 
-### 🚀 À propos
-Ingénierie **front-driven**, sécurité pragmatique, performances mesurées.  
-J’imagine et construis des apps **autonomes** (*offline-ready*), dépendances **minimisées**, **UX élégante & accessible**.  
-Artiste du code : je conçois des interfaces **sensorielles** (lumières, reliefs, rythmes) sans sacrifier la maintenabilité.
+### Engineering
+
+I design and build software around **interactive computation, local-first systems and sensory interfaces**. 
+
+My work spans simulation, geospatial processing, real-time 3D and developer tooling — projects where correctness, architecture and runtime behaviour matter as much as the interface. I favour explicit system boundaries, observable behaviour and technical decisions justified by evidence rather than convention.
 
 ---
 
-### 🧰 Stack & Approches
-| Pôle | Focus |
-|---|---|
-| **Langages** | TypeScript/JavaScript, Python, C#, HTML, CSS |
-| **UI/3D** | React (hooks explicites), R3F/Three.js |
-| **Sécurité locale** | IndexedDB + PBKDF2, *zero-cloud* par défaut |
-| **Plateforme** | Vite, pnpm, Git/GitHub, PowerShell |
-| **Qualité** | ESLint ciblé, tests de surface (Playwright), lisibilité & DX |
-| **Design** | Neumorphisme **accessible**, contrastes, focus states clairs |
+### Technical scope
 
-<!-- ===== SKILL PILLS (inline SVG neumorphic tags) ===== -->
+| Domain | Practice |
+|---|---|
+| **Languages** | TypeScript / JavaScript, C#, Python |
+| **UI/3D & Visualization** | React (explicit hooks), R3F / Three.js, Canvas, scientific interfaces |
+| **Security** | IndexedDB + PBKDF2, Web Crypto, encrypted local storage, zero-cloud by default |
+| **Systems & Data** | Data-driven simulation, geospatial pipelines (OSM/GeoJSON), runtime integration |
+| **Tooling & Quality** | Vite, pnpm, PowerShell, ESLint, Playwright, static analysis |
+| **Design** | Accessible neumorphism, clear contrast, focus states, minimalist dependencies |
+
+---
+
+### Engineering principles
+
+**Correctness before convenience.**
+Critical behaviour should be understood, measurable and testable.
+
+**Architecture before accumulation.**
+A codebase should expose its responsibilities instead of hiding them behind incidental complexity.
+
+**Evidence before assumption.**
+Scientific, security and performance decisions deserve references, measurements or reproducible tests.
+
+**Refactoring is part of engineering.**
+A system should evolve when a better understanding of the problem invalidates earlier abstractions.
+
+---
+
+<!-- ===== SKILL PILLS (inline SVG neumorphic tags, responsive) ===== -->
 <p align="center">
-<svg width="940" height="96" viewBox="0 0 940 96" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Skills">
+<svg width="100%" height="96" viewBox="0 0 940 96" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Skills">
   <defs>
     <filter id="pillInner" x="-50%" y="-50%" width="200%" height="200%">
       <feOffset dx="0" dy="2"/>
@@ -133,6 +153,3 @@ Artiste du code : je conçois des interfaces **sensorielles** (lumières, relief
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:EMAIL)
 
 ---
-
-### 🧭 Mantra
-> **Clair, local, maintenable.** Chaque dépendance doit *mériter* sa place.
