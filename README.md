@@ -2,7 +2,7 @@
 <h1 align="center">Developer & Builder</h1>
 
 <p align="center">
-  <strong>Software Engineering • Local-first Architecture • Interactive 3D</strong><br/>
+  <strong>Software engineering • systems • interactive computation</strong><br/>
   <em>« Build sharp. Keep it local. Ship clean. »</em>
 </p>
 
