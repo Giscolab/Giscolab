@@ -153,3 +153,6 @@ A system should evolve when a better understanding of the problem invalidates ea
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:EMAIL)
 
 ---
+## My thedev.world live stats
+
+[![My The Dev World stats](https://thedev.world/og/Giscolab)](https://thedev.world/u/Giscolab)
