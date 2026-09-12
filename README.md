@@ -59,14 +59,6 @@
 
 ---
 
-### Engineering
-
-I design and build software around **interactive computation, local-first systems and sensory interfaces**. 
-
-My work spans simulation, geospatial processing, real-time 3D and developer tooling — projects where correctness, architecture and runtime behaviour matter as much as the interface. I favour explicit system boundaries, observable behaviour and technical decisions justified by evidence rather than convention.
-
----
-
 ### Technical scope
 
 | Domain | Practice |
@@ -77,22 +69,6 @@ My work spans simulation, geospatial processing, real-time 3D and developer tool
 | **Systems & Data** | Data-driven simulation, geospatial pipelines (OSM/GeoJSON), runtime integration |
 | **Tooling & Quality** | Vite, pnpm, PowerShell, ESLint, Playwright, static analysis |
 | **Design** | Accessible neumorphism, clear contrast, focus states, minimalist dependencies |
-
----
-
-### Engineering principles
-
-**Correctness before convenience.**
-Critical behaviour should be understood, measurable and testable.
-
-**Architecture before accumulation.**
-A codebase should expose its responsibilities instead of hiding them behind incidental complexity.
-
-**Evidence before assumption.**
-Scientific, security and performance decisions deserve references, measurements or reproducible tests.
-
-**Refactoring is part of engineering.**
-A system should evolve when a better understanding of the problem invalidates earlier abstractions.
 
 ---
 
@@ -147,12 +123,4 @@ A system should evolve when a better understanding of the problem invalidates ea
 
 ---
 
-### 🔗 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](LIEN_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](LIEN_PORTFOLIO)
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:EMAIL)
 
----
-## My thedev.world live stats
-
-[![My The Dev World stats](https://thedev.world/og/Giscolab)](https://thedev.world/u/Giscolab)
